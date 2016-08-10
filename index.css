@@ -1,0 +1,11 @@
+body {
+	background-color:#ccffff;
+}
+
+.navbar-default {
+	background-color:#ccffcc;
+}
+
+.navbar-default .navbar-nav > li > a:hover {
+	color:#ff99ff;
+}
