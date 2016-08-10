@@ -10,7 +10,6 @@ body {
 	color:#ff99ff;
 }
 
-img {
-	height:200px;
-	
+.jumbotron {
+	background-color:transparent;
 }
