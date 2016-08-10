@@ -9,3 +9,8 @@ body {
 .navbar-default .navbar-nav > li > a:hover {
 	color:#ff99ff;
 }
+
+img {
+	height:200px;
+	
+}
